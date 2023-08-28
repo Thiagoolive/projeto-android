@@ -137,4 +137,6 @@ footer{
     background-color: var(--cor5);
     color: white;
     margin: 15px;
+    text-align: center;
+    font-family: var(--font-android);
 }
